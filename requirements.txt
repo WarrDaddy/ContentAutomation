@@ -1,0 +1,5 @@
+openai==0.27.0
+google-cloud-vision==2.4.2
+os-sys==2.1.1
+json5==0.9.5
+types-entrypoints==0.1.0
